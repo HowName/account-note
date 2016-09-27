@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "记账",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "gray"
+  },
+  "debug":true
+}

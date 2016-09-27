@@ -1,0 +1,45 @@
+.account-detail{
+    height: 100rpx;
+    padding: 0 30rpx;
+}
+
+.account-amount{
+    padding: 0 30rpx;
+}
+
+.add-one{
+    margin-top: 20rpx;
+}
+
+.account-list-text{
+    color:gray;
+    margin:30rpx 0 0 30rpx;
+}
+
+.account-list-all-amount{
+    color:gray;
+    align-self: flex-end;
+    padding-right: 25rpx;
+}
+
+
+.account-list{
+    color:gray;
+    margin:30rpx 0 0 30rpx;
+    display: flex;
+    flex-direction: row;
+    background-color:wheat;
+    line-height: 70rpx;
+}
+
+
+.account-list-detail{
+    flex:1;
+}
+
+
+.account-list-amount{
+    width: 100rpx;
+}
+ 
+
