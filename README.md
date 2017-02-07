@@ -1,4 +1,8 @@
 # 微信小程序-记账小应用
+
+![image](http://images2015.cnblogs.com/blog/995265/201609/995265-20160927131922656-894084691.gif)
+
+
 	 
 	var util = require("../../utils/util.js");
 	//获取应用实例
